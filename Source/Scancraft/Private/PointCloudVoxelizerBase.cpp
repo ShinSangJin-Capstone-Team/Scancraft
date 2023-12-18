@@ -34,8 +34,12 @@ APointCloudVoxelizerBase::APointCloudVoxelizerBase()
 void APointCloudVoxelizerBase::BeginPlay()
 {
 	Super::BeginPlay();
+}
+
+void APointCloudVoxelizerBase::InitSensorStuff()
+{
 	FOpen3DUE5Module* Plugin = FModuleManager::GetModulePtr<FOpen3DUE5Module>("Open3DUE5");
-	
+
 	if (Plugin) Plugin->InitSensor();
 	ReleaseSensorMemoryDelegate.BindUFunction(this, TEXT("ReleaseSensorMemory"));
 	OnEndPlay.Add(ReleaseSensorMemoryDelegate);

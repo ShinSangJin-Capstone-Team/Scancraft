@@ -19,6 +19,9 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	UFUNCTION(BlueprintCallable, Category = "Voxelize Point Clouds")
+	void InitSensorStuff();
+
 	UFUNCTION(BlueprintCallable, Category = "Voxelize Point Clouds", meta = (WorldContext = "WorldContextObject"))
 	static bool Voxelize(
 		UObject* WorldContextObject,
