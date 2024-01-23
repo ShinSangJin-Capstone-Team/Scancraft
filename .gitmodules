@@ -4,7 +4,7 @@
 [submodule "Plugins/Voxel"]
 	path = Plugins/Voxel
 	url = https://github.com/VoxelPlugin/VoxelProLegacy.git
-	branch = 5.2
+	branch = Marketplace-UE5
 [submodule "Plugins/AdvancedSteamSessions"]
 	path = Plugins/AdvancedSteamSessions
 	url = https://github.com/ShinSangJin-Capstone-Team/AdvancedSteamSessions.git
@@ -14,7 +14,7 @@
 [submodule "Plugins/VRExpansionPlugin"]
 	path = Plugins/VRExpansionPlugin
 	url = https://github.com/mordentral/VRExpansionPlugin.git
-	branch = 5.2-Locked
+	branch = Master
 [submodule "Plugins/ALS-Community"]
 	path = Plugins/ALS-Community
 	url = https://github.com/dyanikoglu/ALS-Community.git
