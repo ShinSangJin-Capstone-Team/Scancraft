@@ -3,7 +3,7 @@
 	url = https://github.com/ShinSangJin-Capstone-Team/Open3DUE5Plugin.git
 [submodule "Plugins/Voxel"]
 	path = Plugins/Voxel
-	url = https://github.com/VoxelPlugin/VoxelProLegacy.git
+	url = https://github.com/ShinSangJin-Capstone-Team/Voxel
 	branch = 5.2
 [submodule "Plugins/AdvancedSteamSessions"]
 	path = Plugins/AdvancedSteamSessions
