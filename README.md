@@ -9,4 +9,4 @@
 
 # Demo
 [https://www.youtube.com/watch?v=iyGYGunP2Cc](https://www.youtube.com/watch?v=iyGYGunP2Cc)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iyGYGunP2Cc?si=sLUo3AWVd6n1SBwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![ScancraftDemo](https://img.youtube.com/vi/iyGYGunP2Cc/0.jpg)](https://www.youtube.com/watch?v=iyGYGunP2Cc)
