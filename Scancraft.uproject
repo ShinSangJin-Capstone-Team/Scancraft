@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "{11943823-4792-A2FE-4F4E-89A745BCBDBF}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -80,6 +80,10 @@
 			]
 		},
 		{
+			"Name": "ConsoleVariables",
+			"Enabled": true
+		},
+		{
 			"Name": "OculusXR",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
@@ -89,7 +93,7 @@
 			]
 		},
 		{
-			"Name": "ConsoleVariables",
+			"Name": "MRUtilityKit",
 			"Enabled": true
 		}
 	],

@@ -9,7 +9,7 @@ public class Scancraft : ModuleRules
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
        // PrivatePCHHeaderFile = "Private/WindowsMixedRealityPrecompiled.h";
 
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin", "EnhancedInput", "Open3DUE5", "Voxel", "Open3D" });
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin", "EnhancedInput", "Open3DUE5", "Voxel", /*"Open3D"*/ });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 		bUseRTTI = true;
